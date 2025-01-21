@@ -21,6 +21,7 @@
 *.toc
 *.snm
 *.xdv
+*.vscode
 
 paper.pdf
 supplement.pdf
