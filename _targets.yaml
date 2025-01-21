@@ -1,0 +1,7 @@
+main:
+  reporter_make: timestamp_positives
+  garbage_collection: yes
+  script: _targets.R
+  seconds_meta_append: 15.0
+  seconds_reporter: 0.5
+  store: _targets
